@@ -1,6 +1,5 @@
 - Hi, I’m @ameya051
 - I’m interested in Fullstack Web Development
-- I’m currently learning NodeJS
 
 
 <!---
