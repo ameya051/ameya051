@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ameya Shrivastava</h1>
 <h3 align="center">An aspiring full-stack developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ameya051" alt="ameya051" /></a> </p>
 
