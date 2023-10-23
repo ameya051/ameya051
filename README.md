@@ -1,5 +1,5 @@
 # 💫 About Me:
-👯 I’m looking to collaborate on open-source projects<br>🌱 I’m currently learning Typescript<br>💬 Ask me about HTML, CSS, JavaScript, MERN Stack
+👯 I’m looking to collaborate on open-source projects<br>🌱 I’m currently learning React Native<br>💬 Ask me about HTML, CSS, JavaScript, MERN Stack
 
 
 ## 🌐 Socials:
