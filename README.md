@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [LocalLens](https://github.com/ameya051/locallens)
 
-- 🌱 I’m currently learning **Langchain, GenAI**
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [ameyash.vercel.app](https://ameyash.vercel.app)
 
