@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/ameyaidk" target="blank"><img src="https://img.shields.io/twitter/follow/ameyaidk?logo=twitter&style=for-the-badge" alt="ameyaidk" /></a> </p>
 
-- 🔭 I’m currently working on [LocalLens](https://github.com/ameya051/locallens)
+- 🔭 I’m currently working on [notch](https://github.com/ameya051/notch)
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Langchain**
 
 - 👨‍💻 All of my projects are available at [ameyash.vercel.app](https://ameyash.vercel.app)
 
