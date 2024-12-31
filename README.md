@@ -9,13 +9,11 @@
 
 - 🌱 I’m currently learning **Langchain**
 
-- 👨‍💻 All of my projects are available at [ameyash.vercel.app](https://ameyash.vercel.app)
+- 👨‍💻 All of my projects are available at [ameyashr.in](https://ameyashr.in)
 
 - 💬 Ask me about **Next.js, MERN, AWS, PostgreSQL**
 
 - 📫 How to reach me **ameyshri051@gmail.com**
-
-- ⚡ Fun fact **anything that can be done in JavaScript, will eventually be made in it**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
