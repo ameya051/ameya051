@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on [Spenz-AI powered finance tracker](https://github.com/ameya051/spenz)
 
-- 🌱 I’m currently learning **Pytorch**
-
 - 👨‍💻 All of my projects are available at [ameyashr.in](https://ameyashr.in)
 
 - 💬 Ask me about **Next.js, MERN, AWS, Python**
