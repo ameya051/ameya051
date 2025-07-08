@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Ameya</h1>
+<h1 align="center">Hi, I'm Ameya</h1>
 <h3 align="center">Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ameya051&label=Profile%20views&color=011019&style=flat" alt="ameya051" /> </p>
 
 <p align="left"> <a href="https://twitter.com/ameyaidk" target="blank"><img src="https://img.shields.io/twitter/follow/ameyaidk?logo=twitter&style=for-the-badge" alt="ameyaidk" /></a> </p>
 
-- 🔭 I’m currently working on [Spenz-AI powered finance tracker](https://github.com/ameya051/spenz)
+- I’m currently working on [captionme-one upload, generate captions](https://github.com/ameya051/caption-me)
 
-- 👨‍💻 All of my projects are available at [ameyashr.in](https://ameyashr.in)
+- All of my projects are available at [ameyashr.in](https://ameyashr.in)
 
-- 💬 Ask me about **Next.js, MERN, AWS, Python**
+- 💬 Ask me about **Fullstack engineering, Deployment, CICD**
 
 - 📫 Reach me at **ameyshri051@gmail.com**
 
