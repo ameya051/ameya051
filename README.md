@@ -1,29 +1,30 @@
-<h1 align="center">Hi, I'm Ameya</h1>
-<h3 align="center">Software Developer</h3>
+# Hi there, I'm Ameya 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ameya051&label=Profile%20views&color=011019&style=flat" alt="ameya051" /> </p>
+Welcome to my GitHub profile! I'm a passionate developer who loves building innovative solutions with modern technologies.
 
-<p align="left"> <a href="https://twitter.com/ameyaidk" target="blank"><img src="https://img.shields.io/twitter/follow/ameyaidk?logo=twitter&style=for-the-badge" alt="ameyaidk" /></a> </p>
+## Tech Stack
 
-- I’m currently working on [captionme-one upload, generate captions](https://github.com/ameya051/caption-me)
+**Frontend:** React, TypeScript, Next.js, Tailwind CSS, Vite, Shadcn, Framer Motion
+**Backend:** Node.js, Express.js, Hono.js
+**Database:** MongoDB, PostgreSQL, Redis
+**AI/ML:** OpenAI APIs, LangChain, RAG Pipelines
+**Tools:** Docker, Git, Vercel, AWS, GitHub Actions, Bun
 
-- All of my projects are available at [ameyashr.in](https://ameyashr.in)
+## Featured Projects
 
-- 💬 Ask me about **Fullstack engineering, Deployment, CICD**
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [**PDF Chat RAG Pipeline**](https://github.com/ameya051/chat-with-pdf) | Intelligent document analysis system for chatting with PDFs | Next.js, Express.js, Bullmq, TypeScript, Gemini, Qdrant vector DB |
+| [**Video Caption Burner**](https://github.com/ameya051/caption-me) | Web app for burning captions/subtitles directly into videos | Next.js, FFmpeg, TypeScript, AWS S3 |
+| [**AI Finance Tracker**](https://github.com/ameya051/spenz) | Smart expense tracking with AI-powered categorization | Next.js, Hono.js, Inngest, Gemini |
+| [**Bio Generator**](https://github.com/ameya051/bioengine) | LLM-powered social media bio generator with customization | Next.js, Groq, Tailwind CSS |
 
-- 📫 Reach me at **ameyshri051@gmail.com**
+## Let's Connect
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ameyaidk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ameyaidk" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ameyashrivastava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ameyashrivastava" height="30" width="40" /></a>
-</p>
+- **LinkedIn:** [linkedin.com/in/ameyashrivastava](https://linkedin.com/in/ameyashrivastava)
+- **Email:** ameyshri051@gmail.com
+- **X (Twitter):** [@ameyaidk](https://x.com/ameyaidk)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ameya051&show_icons=true&theme=dark&locale=en&layout=compact" alt="ameya051" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ameya051&show_icons=true&theme=dark&locale=en" alt="ameya051" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ameya051&theme=dark" alt="ameya051" /></p>
+*Always building something cool! Check out my repositories below* ⬇️
