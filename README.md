@@ -5,10 +5,15 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building inno
 ## Tech Stack
 
 **Frontend:** React, TypeScript, Next.js, Tailwind CSS, Vite, Shadcn, Framer Motion
+
 **Backend:** Node.js, Express.js, Hono.js
+
 **Database:** MongoDB, PostgreSQL, Redis
+
 **AI/ML:** OpenAI APIs, LangChain, RAG Pipelines
+
 **Tools:** Docker, Git, Vercel, AWS, GitHub Actions, Bun
+
 
 ## Featured Projects
 
