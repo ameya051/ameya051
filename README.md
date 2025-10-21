@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building inno
 
 **Frontend:** React, TypeScript, Next.js, Tailwind CSS, Vite, Shadcn, Framer Motion
 
-**Backend:** Node.js, Express.js, Hono.js
+**Backend:** Node.js, Python, Flask
 
 **Database:** MongoDB, PostgreSQL, Redis
 
