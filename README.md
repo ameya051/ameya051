@@ -1,27 +1,33 @@
 # Hi there, I'm Ameya 👋
 
-Welcome to my GitHub profile! I'm a passionate developer who loves building innovative solutions with modern technologies.
+I'm a full-stack developer who likes building useful things with AI. Lately that means chat agents, Slack integrations and tools that make everyday work a little easier.
+
+## What I'm working on
+
+- **[Crolyo](https://github.com/ameya051/crolyo):** a live chat widget for your website that sends every conversation straight into Slack, so your team can reply without leaving it.
+- **[Web Memory Agent](https://github.com/ameya051/web-memory-agent):** a chat agent that remembers past conversations and checks old answers against the latest web results.
 
 ## Tech Stack
 
-**Frontend:** React, TypeScript, Next.js, Tailwind CSS, Vite, Shadcn, Framer Motion
+**Frontend:** React, TypeScript, Next.js, Tailwind CSS, Shadcn, Preact, Framer Motion, Vite
 
-**Backend:** Node.js, Python, Flask
+**Backend:** Node.js, Hono.js, Express.js, Python, Flask
 
-**Database:** MongoDB, PostgreSQL, Redis
+**Database:** PostgreSQL, Supabase, MongoDB, Redis, Qdrant
 
-**AI/ML:** OpenAI APIs, LangChain, RAG Pipelines
+**AI/ML:** Claude, Gemini, OpenAI, Groq, OpenRouter, Vercel AI SDK, LangChain, RAG Pipelines
 
-**Tools:** Docker, Git, Vercel, AWS, GitHub Actions, Bun
-
+**Tools:** Docker, Git, Vercel, AWS, GitHub Actions, Bun, Inngest, BullMQ, Vitest
 
 ## Featured Projects
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [**PDF Chat RAG Pipeline**](https://github.com/ameya051/chat-with-pdf) | Intelligent document analysis system for chatting with PDFs | Next.js, Express.js, Bullmq, TypeScript, Gemini, Qdrant vector DB |
-| [**Video Caption Burner**](https://github.com/ameya051/caption-me) | Web app for burning captions/subtitles directly into videos | Next.js, FFmpeg, TypeScript, AWS S3 |
+| [**Crolyo**](https://github.com/ameya051/crolyo) | Slack-native live chat for your website, with a tiny embeddable widget and real-time two-way messaging | Next.js, Preact, Supabase, Slack API, Claude |
+| [**Web Memory Agent**](https://github.com/ameya051/web-memory-agent) | Chat agent with web search and memory that re-checks past answers and cites what changed | Next.js, Vercel AI SDK, OpenRouter, Exa, PostgreSQL |
 | [**AI Finance Tracker**](https://github.com/ameya051/spenz) | Smart expense tracking with AI-powered categorization | Next.js, Hono.js, Inngest, Gemini |
+| [**PDF Chat RAG Pipeline**](https://github.com/ameya051/chat-with-pdf) | Upload a PDF and chat with it | Next.js, Express.js, BullMQ, TypeScript, Gemini, Qdrant |
+| [**Video Caption Burner**](https://github.com/ameya051/caption-me) | Web app for burning captions/subtitles directly into videos | Next.js, FFmpeg, TypeScript, AWS S3 |
 | [**Bio Generator**](https://github.com/ameya051/bioengine) | LLM-powered social media bio generator with customization | Next.js, Groq, Tailwind CSS |
 
 ## Let's Connect
@@ -32,4 +38,4 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building inno
 
 ---
 
-*Always building something cool! Check out my repositories below* ⬇️
+*Always building something. Check out my repositories below* ⬇️
